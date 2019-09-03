@@ -4,11 +4,9 @@
 
 cd  /Users/liuwenguan/GitBook/Library/Import/emlbook
 
-gitbook  server
+gitbook  serve
 
 [http://localhost:4000](http://localhost:4000)
-
-
 
 | 数据分析 | 名称 |
 | :--- | :--- |
